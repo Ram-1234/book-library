@@ -115,7 +115,7 @@
         "image": "https://fsb.zobj.net/crop.php?r=SklvelRdYwk1QFrMYLs7qw4oCGHnXQYKan4BRZbhn6P9a082lOINwECVgNTtltn4CmQCRBDBcJ1zSzRINixE695iDtj0NyPgLHGPYYtaDyk8w4ImLslwSQHzelTrzUm7lcwq3zdgY7oMYJAj",
         "writer": "Ursula K. Le Guin",
         "rate": "4.1",
-        "status":"action",
+        "status":"geographic",
         "website": "",
         "year": "10 january 1968"
     },
@@ -124,7 +124,7 @@
         "image": "https://fsa.zobj.net/crop.php?r=rRtImT9QfwkQ_ROzS3UYoVjI1yRyR9C6eb2PW54B2_yOjBBqlrfPpcBxL5YU9V9mtkLLWSc1z1SsXO8bRZssM2BFVex3S2xqpSHICiDzCUH904G_5Elw0-ELpcz10X1MJ5Xu_rDq-6xO6fkT",
         "writer": "J. K. Rowling",
         "rate": "4.8",
-        "status":"action",
+        "status":"comedy",
         "website": "",
         "year": "26 June 1997"
     },
@@ -133,7 +133,7 @@
         "image": "https://fsb.zobj.net/crop.php?r=yKGZe9nxM1q3VxSWknD-dbuyLitNbr08D6i3hCdxTzRBeV_8pSgz2NCLCECYaBRoH9yP-oWZrZYPM_lUXN03wd7WEJlTdhUSCtDtpKE_alqoSGh4nhg8xWspT8gUTR5ay1lU7iI8VOUiKe99",
         "writer": "Neil Gaiman",
         "rate": "4.7",
-        "status":"action",
+        "status":"faith",
         "website": "",
         "year": "19 June 2001"
     },
@@ -142,7 +142,7 @@
         "image": "https://fsa.zobj.net/crop.php?r=wxrkTkU27jkw6466Y_k7OMmTR5NX8NuXyaQ8dhE7SnBRZSonL5daU1u6DYazx6nz8CoQQxjQr1NtWeDGKTawpNZR7ZumSt3NCWe1pezimu-gViGL_6XxsLx3GNj8DQJuxyiM6OS3_jTZ7e3y",
         "writer": "Nitin Singhania",
         "rate": "3.9",
-        "status":"action",
+        "status":"culture",
         "website": "",
         "year": "10 August 2013"
     },
@@ -151,7 +151,7 @@
         "image": "https://fsa.zobj.net/crop.php?r=MDvglqJ6FVdB8qrbl5r1yDNC2jAkNA-O93FNrNaaxlcmn94jtUgLX-ild6Usr-eX0l99acyTPXqwgqJz5QWFwTuyyJNzDlFH9lT9P47Q3v2LZs_ed_7GFxzUaLsQjrMD-71_9UZMWy9s_cNh",
         "writer": "Jon Krakauer",
         "rate": "4.3",
-        "status":"action",
+        "status":"nature",
         "website": "",
         "year": "10 August 1997"
     },
@@ -169,7 +169,7 @@
         "image": "https://fsa.zobj.net/crop.php?r=_-ea_JYGjy26B0VKAVmlG3qwJX0fJSr2VZNJ4pJr4eohvN8ERIy2ak8-t46P6XHeva_xP6ulwjqUX2zz-TDxre5_KGZ-Eh9NkQSG8iDwvC2T3nLuFFt-mJgZFn9r0r3c8XNU_lhOtbHdr7qv",
         "writer": "Tristan Gooley",
         "rate": "4.6",
-        "status":"action",
+        "status":"nature",
         "website": "",
         "year": "10 February 2010"
     },
@@ -178,7 +178,7 @@
         "image": "https://fsb.zobj.net/crop.php?r=wHCOkqhqKkGDmszsLGcFGeH1KbWSZCow_WUGjo99mrssGAS0u3y_aZwg-4V8xO3BsTxxT0Ul5tlCyLaVZdPdYMEm6vq-D5AAMNtHWsb_WY6yt1ftlvGNYmj1NhcNuy-wDMXUsuiGDmOzh90X",
         "writer": "Jasmine Guillory",
         "rate": "3.5",
-        "status":"action",
+        "status":"romantic",
         "website": "",
         "year": "10 December 2018"
     },
@@ -187,7 +187,7 @@
         "image": "https://fsa.zobj.net/crop.php?r=K7iUEJ70Fmq6W2Ub0WUpYlpZv-EtPg5Z5r9Eg2pCsvnvCKb09F52DBZPwKGfBV_zYBG4xYhRAh8Bm7e-dZiKqNRN1QksGJe1LBNa29g_gnjcB6qJ4pe5yHciU9mfw4cjgnsmCsowP545t2QR",
         "writer": "Bill Bryson",
         "rate": "4.1",
-        "status":"action",
+        "status":"travel",
         "website": "",
         "year": "6 June 2000"
     }

@@ -5,7 +5,7 @@ export default function Bookcatagory() {
     return (
         <>
         <div className="bookcategory">
-            <select>
+            <select className="category">
                 <option>Computer Scince</option>
                 <option>Story</option>
                 <option>Historical</option>
