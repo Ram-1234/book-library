@@ -1,12 +1,21 @@
-import React from 'react';
+import React,{useState} from 'react';
 import Bookcatagory from'./Bookcatagory';
 import Search from './Search';
 import './style.css';
 import Book from './Books';
 import Data from './data.json';
-import Mode from './Mode';
+//import Mode from './Mode';
 
 export default function Home() {
+    let [colors,setColor]=useState("white");
+   
+   function colorChange(){
+      if(colors==="white"){
+          colors=setColor("black");
+      }else{
+          colors=setColor("white");
+      }
+   }
     return (
         <>
         <div className="main">
@@ -14,12 +23,12 @@ export default function Home() {
             <h1 className="logo">Digital Library...</h1>
             <Bookcatagory/>
             <Search/>
-            {/* <Mode/> */}
+            <h4 className="colorsmode" style={{color:{colors}}} onChange={colorChange}>Color Mode</h4>
             </div>
             {/* <h2>Book list</h2> */}
-            <div className="bookhome">
+            <div style={{backgroundColor:{colors}}} className="bookhome">
                 {Data.map((val)=>{
-                    return(
+                    return( 
                         <Book
                         rates={val.rate}
                         imgsrc={val.image}

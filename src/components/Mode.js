@@ -1,26 +1,26 @@
 import React,{useState} from 'react';
+import Home from './Home.js'
 
 
 
 export default function Mode() {
-    let col=document.getElementsByClassName("bookhome").innerHTML.style.backgroundColor;
-    let [color,setColor]=useState(col);
-    
+    let col=document.getElementsByClassName("bookhome");
+    let [colors,setColor]=useState(col.innerHTML.style.backgroundColor);
+   
     function colorChange(){
-        if(color==='white'){
-            document.getElementsByClassName("bookhome").innerHTML.style.backgroundColor='black';
-            color="black";
-            setColor(color);
-        }else{
-            document.getElementsByClassName("bookhome").innerHTML.style.backgroundColor='white';
-            color="white";
-            setColor(color);
-        }
+       if(colors==="white"){
+        document.getElementsByClassName("bookhome").innerHTML.style.backgroundColor='black';
+           colors=setColor("black");
+           
+       }else{
+        document.getElementsByClassName("bookhome").innerHTML.style.backgroundColor='black';
+           colors=setColor("white");
+       }
     }
 
     return (
         <div>
-            <h4 onClick={colorChange} style={{backgroundColor:{color}}}>Black Mode</h4>
+            <h4 onChange={colorChange} style={{backgroundColor:{colors}}}>Black Mode</h4>
         </div>
     )
 }

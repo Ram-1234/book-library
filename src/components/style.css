@@ -26,7 +26,7 @@
 }
 
 .logo{
-    font-family: 'Gloria Hallelujah', cursive;
+    
     margin: 20px;
     color: palevioletred;
 }
@@ -97,4 +97,10 @@ button{
 
 btn:hover{
     background-color: black;
+}
+
+.colorsmode{
+    position: relative;
+    top: 25px;
+    left: -20px;
 }
