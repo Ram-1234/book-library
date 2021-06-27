@@ -183,14 +183,164 @@
         "year": "10 December 2018"
     },
     {
-        "title": "Down Under",
-        "image": "https://fsa.zobj.net/crop.php?r=K7iUEJ70Fmq6W2Ub0WUpYlpZv-EtPg5Z5r9Eg2pCsvnvCKb09F52DBZPwKGfBV_zYBG4xYhRAh8Bm7e-dZiKqNRN1QksGJe1LBNa29g_gnjcB6qJ4pe5yHciU9mfw4cjgnsmCsowP545t2QR",
+        "title": "One Thousand and One Nights",
+        "image": "https://global.oup.com/education/covers/oxed/large/9780192750136.jpg",
+        "writer": " India/Iran/Iraq/Egypt",
+        "rate": "4.1",
+        "status":"travel",
+        "website": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights",
+        "year": "1706-1721",
+        "description":"One Thousand and One Nights is a collection of Middle Eastern and South Asian stories and folk tales compiled in Arabic during the Islamic Golden Age. It is often known in English as the Arabian Ni... "
+    },
+    {
+        "title": "Great Expectation",
+        "image": "https://1.bp.blogspot.com/-xFNE6jMBwzM/X0ADSJaoKkI/AAAAAAAAAfM/VJT_1kTsDN8q4GpjvQrDYvcUfNeCerdJQCLcBGAsYHQ/s500/great%2Bexpectation.jpg",
+        "writer": "Charles Dickens",
+        "rate": "4.1",
+        "status":"travel",
+        "website": "http://en.wikipedia.org/wiki/Great_Expectations",
+        "year": "1860-1861",
+        "description": "Great Expectations is written in the genre of 'bildungsroman' or the style of book that follows the story of a man or woman in their quest for maturity, usually starting from childhood and ending i... "
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7FPkaKjwB-Tiga4GzK-r2_G-mgMD0Fy2tJYh7d_Mw03Sbpwf1CiZlDz_0evYEYGWdOyhwr5xFQl0&usqp=CAU",
+        "writer": " Harper Lee",
+        "rate": "4.1",
+        "status":"travel",
+        "website": "http://en.wikipedia.org/wiki/To_Kill_a_Mockingbird",
+        "year": "11 July 1960"
+    },
+    {
+        "title": "The Red and the black",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388254311i/14662._UY475_SS475_.jpg",
+        "writer": "Stendhal",
+        "rate": "3.8",
+        "status":"travel",
+        "website": "http://en.wikipedia.org/wiki/The_Red_and_the_Black",
+        "year": "November 1830",
+        "description":"Le Rouge et le Noir (The Red and the Black), subtitled Chronique du XIXe siécle ('Chronicle of the 19th century'), is an historical psychological novel in two volumes by Stendhal, published in 1830... "
+    },
+    {
+        "title": "Middlemarch",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/610RcD8n-EL.jpg",
+        "writer": "George Eliot",
+        "rate": "4.1",
+        "status":"travel",
+        "website": "http://en.wikipedia.org/wiki/Middlemarch",
+        "year": "1871–1872"
+    },
+    {
+        "title": "Gulliver's Travels",
+        "image": "https://nishitak.com/wp-content/uploads/2010/11/001_gullivers_travels.jpg",
+        "writer": "Jonathan Swift",
+        "rate": "4.1",
+        "status":"travel",
+        "website": "https://thegreatestbooks.org/",
+        "year": "6 June 2000",
+        "description":"From the preeminent prose satirist in the English language, a great classic recounting the four remarkable journeys of ship's surgeon Lemuel Gulliver. For children it remains an enchanting fantasy;... "
+    },
+    {
+        "title": " Beloved",
+        "image": "https://m.media-amazon.com/images/I/41dRgue7zZL.jpg",
+        "writer": "Toni Morrison",
+        "rate": "4.1",
+        "status":"travel",
+        "website": "http://en.wikipedia.org/wiki/Beloved_(novel)",
+        "year": "September 1987",
+        "description":"Beloved (1987) is a Pulitzer Prize-winning novel by Nobel laureate Toni Morrison. The novel, her fifth, is loosely based on the life and legal case of the slave Margaret Garner, about whom Morrison... "
+    },
+    {
+        "title": "Mrs. Dalloway",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71sXY7rxayL.jpg",
+        "writer": " Virginia Woolf",
+        "rate": "4.1",
+        "status":"travel",
+        "website": "http://en.wikipedia.org/wiki/Mrs_Dalloway",
+        "year": "14 May 1925",
+        "description":"Created from two short stories, 'Mrs Dalloway in Bond Street' and the unfinished 'The Prime Minister', the novel's story is of Clarissa's preparations for a party of which she is to be hostess. Wit... "
+    },
+    {
+        "title": "Jane Eyre",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwVQ0ZbszxXa_dGhZB8zigJ2dPIMmdt81aBg&usqp=CAU",
+        "writer": " Charlotte Bronte",
+        "rate": "4.1",
+        "status":"travel",
+        "website": "Jane Eyre",
+        "year": "6 June 2000",
+        "description":"Jane Eyre is a first-person narrative of the title character, a small, plain-faced, intelligent and honest English orphan. The novel goes through five distinct stages: Jane's childhood at Gateshead... "
+    },
+    {
+        "title": "The Aeneid",
+        "image": "https://images.penguinrandomhouse.com/cover/9780553210415",
+        "writer": " Virgil",
+        "rate": "4.1",
+        "status":"travel",
+        "website": "http://en.wikipedia.org/wiki/The_Aeneid",
+        "year": "1598",
+        "description":"The Aeneid is a Latin epic poem written by Virgil in the late 1st century BC (29–19 BC) that tells the legendary story of Aeneas, a Trojan who traveled to Italy, where he became the ancestor of the... "
+    },
+    {
+        "title": "Collected Fiction",
+        "image": "https://archive.org/services/img/collectedfiction0000borg",
+        "writer": "Jorge Luis Borges",
+        "rate": "4.1",
+        "status":"travel",
+        "website": "https://thegreatestbooks.org/",
+        "year": "6 June 2000",
+        "description":"From his 1935 debut with The Universal History of Iniquity, through his immensely influential collections Ficciones and The Aleph, these enigmatic, elaborate, imaginative inventions display Borges'... "
+    },
+    {
+        "title": "The Sun Also Rises",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7P8TauDzzdBVlZmVWfU6t09Y8AcFsKh0-WaZMwRQvmpH3Ts8I74AflfjlIV2ni4PO90qhC0dUlKA&usqp=CAU",
         "writer": "Bill Bryson",
         "rate": "4.1",
         "status":"travel",
-        "website": "",
-        "year": "6 June 2000"
+        "website": "http://en.wikipedia.org/wiki/The_Sun_Also_Rises",
+        "year": "1926",
+        "description":"The novel explores the lives and values of the so-called 'Lost Generation,' chronicling the experiences of Jake Barnes and several acquaintances on their pilgrimage to Pamplona for the annual San F... "
+    },
+    {
+        "title": " David Copperfield",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf0x8y67uOnvc9703u-R7sX-NKH0drS3R2RK2ICyFW-3zJxdHSoDkiE9KmhraBGHPhzEQtxMtAqp8&usqp=CAU",
+        "writer": "Charles Dickens",
+        "rate": "4.1",
+        "status":"travel",
+        "website": "https://thegreatestbooks.org/",
+        "year": "1885",
+        "description":" The story of the abandoned waif who learns to survive through challenging encounters with distress and misfortune."
+    },
+    {
+        "title": "The Magic Mountain ",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS69VaKsZu2WaAykfzYvLtsCqGg2Vtjm_6Q4VNTl4j3Z82NUIV29HVM3UxXSBqA1_XcHcUIgrwZI4M&usqp=CAU",
+        "writer": "Thomas Mann",
+        "rate": "4.1",
+        "status":"travel",
+        "website": "http://en.wikipedia.org/wiki/The_Magic_Mountain",
+        "year": "6 June 2000",
+        "description":"The Magic Mountain is a novel by Thomas Mann, first published in November 1924. It is widely considered to be one of the most influential works of 20th century German literature. "
+    },
+    {
+        "title": "Mrs. Dalloway",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71sXY7rxayL.jpg",
+        "writer": " Virginia Woolf",
+        "rate": "4.1",
+        "status":"travel",
+        "website": "http://en.wikipedia.org/wiki/Mrs_Dalloway",
+        "year": "14 May 1925",
+        "description":"Created from two short stories, 'Mrs Dalloway in Bond Street' and the unfinished 'The Prime Minister', the novel's story is of Clarissa's preparations for a party of which she is to be hostess. Wit... "
+    },
+    {
+        "title": "Jane Eyre",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwVQ0ZbszxXa_dGhZB8zigJ2dPIMmdt81aBg&usqp=CAU",
+        "writer": " Charlotte Bronte",
+        "rate": "4.1",
+        "status":"travel",
+        "website": "Jane Eyre",
+        "year": "6 June 2000",
+        "description":"Jane Eyre is a first-person narrative of the title character, a small, plain-faced, intelligent and honest English orphan. The novel goes through five distinct stages: Jane's childhood at Gateshead... "
     }
+
     
 
 ]
