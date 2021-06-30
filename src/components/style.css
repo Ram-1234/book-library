@@ -20,6 +20,7 @@
     margin-left: 230%;
     height: 25px;
     border-radius: 10px;
+    width: 120px;
 }
 .search{
     margin: 25px;  
@@ -32,7 +33,15 @@
     height: 25px;
     border-radius: 5px;
     border: 1px solid black;
-
+}
+input{
+    text-align: center;
+}
+button{
+    padding: 5px;
+}
+button:hover{
+    transform:scale(1.03)
 }
 .colorsmode{
     position: relative;
@@ -41,8 +50,10 @@
     height: 25px;
     left: 5%;
     border-radius: 10px;
-    border: 1px solid black;
-    
+    border: 1px solid black; 
+}
+.colorsmode:hover{
+    transform: scale(1.04)
 }
 
 .logo{
