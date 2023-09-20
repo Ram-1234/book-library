@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Hosted Link: https://650b12f4005ad702eabda5f4--capable-cannoli-a13eda.netlify.app/
+Hosted Link: https://650b2bf39ee1d2225f509ff7--exquisite-brigadeiros-6b4810.netlify.app/
 
 ## Available Scripts
 
