@@ -8,6 +8,7 @@ import Footer from './footer/footer.js';
 import Modal from "./modal/modal"
 import LightModeIcon from '@mui/icons-material/LightMode';
 import Brightness4Icon from '@mui/icons-material/Brightness4';
+import MenuBookIcon from '@mui/icons-material/MenuBook';
 
 export default function Home() {
     let [colors, setColor] = useState("white");
@@ -70,7 +71,7 @@ export default function Home() {
         <>
             <div className="main">
                 <div className="headerbar">
-                    <h1 className="logo">Digital Library...</h1>
+                    <h1 className="logo"><MenuBookIcon fontSize='32px' style={{ margin: "0 8px 0 0" }} /> Library</h1>
                     <div className='filter__container'>
                         {/* serach bar */}
                         <div className="searchbar" >
