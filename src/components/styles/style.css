@@ -22,7 +22,11 @@ button:hover {
 .logo {
     font-family: 'Gloria Hallelujah', cursive;
     padding: -10px;
-    /* margin-left: 20px; */
+    margin-left: 4%;
+    text-align: left;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
     color: palevioletred;
     width: 35%;
 }
