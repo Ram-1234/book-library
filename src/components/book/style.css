@@ -1,0 +1,11 @@
+.details__button {
+    color: #ec7474;
+    border: none;
+    padding: 10px 25px;
+    margin: 5px 0;
+    font-size: 13px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    transform: scale(1.1);
+    font-weight: 600;
+}

@@ -1,0 +1,41 @@
+.filter__container {
+    width: 60%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.searchbar {
+    border: none;
+    margin-right: 20%;
+}
+
+.search__field {
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    outline-style: none;
+}
+
+.search__btn {
+    border: none;
+    padding: 5px 15px;
+    border-radius: 5px;
+    margin: 0 5px;
+}
+
+.color__mode__container {
+    /* border: 1px solid red; */
+    margin: 0;
+    padding: 0;
+    width: fit-content;
+}
+
+.colorsmode {
+    border: none;
+    padding: 5px 0;
+    text-align: center;
+    margin: 0;
+    border-radius: 3px;
+}

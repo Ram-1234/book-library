@@ -1,5 +1,5 @@
 import React from 'react';
-
+import "./style.css"
 
 export default function Books(props) {
 
@@ -13,7 +13,7 @@ export default function Books(props) {
                     <div className='book_info'>
                         <h3 className='book_title'>{props.title}</h3>
                         <span className="publice">{props.status}</span><br />
-                        <button onClick={() => props.showBookHandler(props)} style={{ color: "green", width: "50px" }}>Details</button>
+                        <button className='details__button' onClick={() => props.showBookHandler(props)}>Details</button>
                     </div>
                 </div>
             </div>

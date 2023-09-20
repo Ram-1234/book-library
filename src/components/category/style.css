@@ -1,0 +1,12 @@
+.bookcategory {
+    width: auto;
+    margin: 0 25px;
+}
+
+.category {
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    outline-style: none;
+}

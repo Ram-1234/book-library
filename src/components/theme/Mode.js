@@ -1,7 +1,5 @@
 import React, { useState } from 'react';
 
-
-
 export default function Mode() {
     let col = document.getElementsByClassName("bookhome");
     let [colors, setColor] = useState(col.innerHTML.style.backgroundColor);
@@ -18,7 +16,7 @@ export default function Mode() {
     }
 
     return (
-        <div>
+        <div style={{ margin: 0, padding: 0 }}>
             <h4 onChange={colorChange} style={{ backgroundColor: { colors } }}>Black Mode</h4>
         </div>
     )
