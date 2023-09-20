@@ -1,9 +1,9 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-.headerbar{
+.headerbar {
     display: flex;
     text-align: right;
     background-color: lightgray;
@@ -11,75 +11,88 @@
     width: 100%;
 }
 
-.bookcategory{
+.bookcategory {
     margin: 25px;
     margin-right: 30%;
     right: 20px;
 }
-.category{
+
+.category {
     margin-left: 230%;
     height: 25px;
     border-radius: 10px;
     width: 120px;
 }
-.search{
-    margin: 25px;  
+
+.search {
+    margin: 25px;
     height: 25px;
     border-radius: 10px;
     border: 1px solid black;
 }
-.inputbtn{
+
+.inputbtn {
     margin: -20px;
     height: 25px;
     border-radius: 5px;
     border: 1px solid black;
 }
-input{
+
+input {
     text-align: center;
 }
-button{
+
+button {
     padding: 5px;
+    border: none;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
-button:hover{
-    transform:scale(1.03)
+
+button:hover {
+    transform: scale(1.03)
 }
-.colorsmode{
+
+.colorsmode {
     position: relative;
     margin: 25px;
     width: 80px;
     height: 25px;
     left: 5%;
     border-radius: 10px;
-    border: 1px solid black; 
+    border: 1px solid black;
 }
-.colorsmode:hover{
+
+.colorsmode:hover {
     transform: scale(1.04)
 }
 
-.logo{
+.logo {
     font-family: 'Gloria Hallelujah', cursive;
     padding: -10px;
     margin-left: 20px;
     color: palevioletred;
 }
 
-.bookhome{
+.bookhome {
     /* background-color: darkseagreen; */
 }
-.cards{
+
+.cards {
     display: inline-block;
 }
-.card{
-    border: 1px solid black;
+
+.card {
+    /* border: 1px solid black; */
     width: 250px;
     height: 400px;
     padding: 5px;
     text-align: center;
-    margin: 2px;
+    margin: 5px;
     border-radius: 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
 }
 
-.book_img{
+.book_img {
     margin-top: -35px;
     height: 300px;
     width: 250px;
@@ -87,51 +100,63 @@ button:hover{
     border-radius: 10px 10px 0px 0px;
 }
 
-.book_info{
+.book_img:hover {
+    transform: scale(1.1, 1.1);
+    border: none;
+    z-index: 0;
+    border-radius: 15px;
+}
+
+.book_info {
     padding: 0px;
     margin: -35px;
 
 }
-.book_title{
+
+.book_title {
     margin: 5px;
-}
-.publice{
-    margin: 5px;
-}
-button{
-    margin: 5px;
-}
-.rating{
-    padding-top: 7px;
-   width: 60px;
-   height: 30px;
-   position: relative;
-   top: 8px;
-   left: 8px;
-   opacity: 0.6;
-   background-color: white;
-   border-radius: 10px; 
 }
 
-.bookstatus{
+.publice {
+    margin: 5px;
+}
+
+button {
+    margin: 5px;
+}
+
+.rating {
+    padding-top: 7px;
+    width: 60px;
+    height: 30px;
+    position: relative;
+    top: 8px;
+    left: 8px;
+    opacity: 0.6;
+    background-color: white;
+    border-radius: 10px;
+    z-index: 100;
+}
+
+.bookstatus {
     padding-top: 7px;
     width: 85px;
     height: 30px;
     position: relative;
     top: -45px;
-    left:160px;
+    left: 160px;
     background-color: white;
     opacity: 0.7;
     border-radius: 15px;
 }
 
-btn:hover{
+btn:hover {
     background-color: black;
 }
 
-.footer{
+.footer {
     /* background-color: black; */
-     background-image: url("https://fsb.zobj.net/crop.php?r=BQw6nv8pTEDp31Sv3tNPpTNRa4_l9AkOkWFd2AL0OqpNPHTca7sdoxBvLB0uSmnjEqSRb9C1bqI0DMG-HPfeosSyRVrE91K-x_cVW52aIDEeho6r6_ymv3c1lPRiubmQxmxLi3pSDjS3HTTt");
+    background-image: url("https://fsb.zobj.net/crop.php?r=BQw6nv8pTEDp31Sv3tNPpTNRa4_l9AkOkWFd2AL0OqpNPHTca7sdoxBvLB0uSmnjEqSRb9C1bqI0DMG-HPfeosSyRVrE91K-x_cVW52aIDEeho6r6_ymv3c1lPRiubmQxmxLi3pSDjS3HTTt");
     color: black;
     text-align: center;
     opacity: 0.6;
@@ -140,5 +165,3 @@ btn:hover{
     margin: 2px;
     padding: 20px;
 }
-
-
