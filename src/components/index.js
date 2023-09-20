@@ -1,10 +1,13 @@
 import React, { useEffect, useState } from 'react';
 import Bookcatagory from './category/Bookcatagory';
 import './styles/style.css';
+import "./style.css"
 import Book from './book/Books';
 import Data from './data/data.json';
 import Footer from './footer/footer.js';
 import Modal from "./modal/modal"
+import LightModeIcon from '@mui/icons-material/LightMode';
+import Brightness4Icon from '@mui/icons-material/Brightness4';
 
 export default function Home() {
     let [colors, setColor] = useState("white");
@@ -55,7 +58,6 @@ export default function Home() {
     function showBookHandler(data) {
         setShowDetails(true);
         setDetails(data);
-        console.log('data', data);
     }
 
     function closeDetails() {
@@ -64,28 +66,35 @@ export default function Home() {
 
 
 
-
     return (
         <>
             <div className="main">
                 <div className="headerbar">
                     <h1 className="logo">Digital Library...</h1>
-                    <Bookcatagory defaultType={defaultType} />
-                    {/* serach bar */}
-                    <div className="searchbar" >
-                        <input className='search' type="text" onChange={setinput} value={input} placeholder="Search..." />
-                        <button className="inputbtn" onClick={submitInput} >search</button>
+                    <div className='filter__container'>
+                        {/* serach bar */}
+                        <div className="searchbar" >
+                            <input className='search__field' type="text" onChange={setinput} value={input} placeholder="Search..." />
+                            <button className="search__btn" onClick={submitInput} >search</button>
+                        </div>
+                        <Bookcatagory defaultType={defaultType} />
+                        {/* theme button */}
+                        <div onClick={colorChange} className='color__mode__container'>
+                            {/* <input type="color__mode"  className="colorsmode" value='color mode' /> */}
+                            {colors === "white" ?
+                                <LightModeIcon style={{ color: '#fff' }} /> :
+                                <Brightness4Icon />
+                            }
+                        </div>
                     </div>
-                    {/* <Mode/> */}
-                    <input type="button" onClick={colorChange} className="colorsmode" value='color mode' />
                 </div>
-                {/* <h2>Book list</h2> */}
                 <div style={{ background: colors, color: text }} className="bookhome" >
                     {
                         newData.length > 0 ?
                             newData.map((val, ind) => {
                                 return (
                                     <Book
+                                        key={ind}
                                         id={ind}
                                         color={text}
                                         rates={val.rate}

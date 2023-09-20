@@ -1,0 +1,12 @@
+.searchbar {
+    margin-right: 25px;
+}
+
+.search__field {
+    border: none;
+    padding: 10px;
+}
+
+input {
+    border: none;
+}

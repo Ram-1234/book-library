@@ -5,9 +5,9 @@ import './style.css';
 export default function Search() {
 
     return (
-        <>
+        <React.Fragment>
             <div className="searchbar" >
-                <input className='search' type="text" placeholder="Search..." />
+                <input className='search__field' type="text" placeholder="Search..." />
                 <button className="inputbtn" type='submit'>search</button>
                 {
                     Data.map((val) => {
@@ -17,6 +17,6 @@ export default function Search() {
                     })
                 }
             </div>
-        </>
+        </React.Fragment>
     )
 }

@@ -1,12 +1,13 @@
 import React, { useState } from 'react';
 import '../styles/style.css';
+import "./style.css";
 
 export default function Bookcatagory(props) {
     const [optvalue] = useState("");
 
 
     return (
-        <>
+        <React.Fragment>
             <div className="bookcategory">
                 <select onChange={(e) => props.defaultType(e)} className="category" defaultValue={optvalue}>
                     <option value="all">All</option>
@@ -21,6 +22,6 @@ export default function Bookcatagory(props) {
                     <option value="romantic">Romantic</option>
                 </select>
             </div>
-        </>
+        </React.Fragment>
     )
 }
