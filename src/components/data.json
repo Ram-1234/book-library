@@ -1,203 +1,220 @@
-
-
 [
     {
-     "title": "Alone Girl",
-	"image": "https://fsa.zobj.net/crop.php?r=n2-Y1VNe1ZuBZRH1nc7ZpWjc65-GxSHM59fvvHNYQo4N5NLOIuGLDts6PgpQ7PNRQJp5JgD9ZrYEO7gBx2ruSkj1jfRMZ2WQu6PGvTY6EQvHrQ8CDiEJe_jxU1JQsPUPIPmxBjvlYFHTKfwo",
-	"writer": "Blake Pierce",
-	"rate": "4.6",
-    "status":"fantasy",
-    "website": "",
-	"year": "September 8th 2015"
+        "title": "Alone Girl",
+        "image": "https://fsa.zobj.net/crop.php?r=n2-Y1VNe1ZuBZRH1nc7ZpWjc65-GxSHM59fvvHNYQo4N5NLOIuGLDts6PgpQ7PNRQJp5JgD9ZrYEO7gBx2ruSkj1jfRMZ2WQu6PGvTY6EQvHrQ8CDiEJe_jxU1JQsPUPIPmxBjvlYFHTKfwo",
+        "writer": "Blake Pierce",
+        "rate": "4.6",
+        "status": "fantasy",
+        "website": "",
+        "year": "September 8th 2015",
+        "description": "Girl Alone is not a specific topic or subject, therefore it is difficult to provide a comprehensive answer without additional context,However, Girl Alone can refer to a book by Rupa Gulab, which is a memoir about growing up in India as a young girl. It can also refer to a documentary series on Channel 5 in the UK, which follows young girls who are living alone without parental supervision."
     },
-   
     {
         "title": "Empower Yourself",
         "image": "https://fsb.zobj.net/crop.php?r=mBkTUc2eyUMHGkyjDQ97BBc5UJycQbYAQmRqErsaYo6i6tN_jUuW3fig3EZuKhexMh4YjMZ9oFnHwV2AKSYrzHPZlkBEUV3H2yB_xuX3d6RkeGTdBmkuXfbGEN3SlLADmBcA_tQfXs7DLURr",
         "writer": "John Martin",
         "rate": "4.9",
-        "status":"motivation",
+        "status": "motivation",
         "website": "",
-        "year": "20 November 2018"
+        "year": "20 November 2018",
+        "description": "'Empower Yourself' is a phrase often used in self-help and personal development contexts. It refers to taking control of one's life and making positive changes to improve oneself, As for a wiki page, there are several options that may provide helpful information on the topic. One option is the 'Empowerment' page on Wikipedia, which provides a general overview of the concept and its various applications in different fields. Another option is to search for specific resources or organizations that focus on empowering individuals, such as non-profits or coaching programs"
     },
     {
         "title": "A Court of Silver Flames",
         "image": "https://fsb.zobj.net/crop.php?r=3H7Q9WdS9wFy9bERGfNmAjkIGNutGiu7_5F-zXxvgH8UAhJzP50jcNkevrzINLmxoa1luW89khXVF7VqonPoqpWEV88juvZpU_rxVujHsY7qp5_PZcvzUzjZ4k0UAapkllJBhspxjkwJancn",
         "writer": "Sarah J. Maas",
         "rate": "4.5",
-        "status":"story",
+        "status": "story",
         "website": "",
-        "year": "16 February 2021"
+        "year": "16 February 2021",
+        "description": ""
     },
     {
         "title": "I Hold a Wolf by the Ears",
         "image": "https://fsb.zobj.net/crop.php?r=Q11pmDWAXDqwUdZkqS2GUQZCkiXFVIQ3hYX4GNHFqCLCgCmuHf_l5jZ4P1ID894xVPHkLST8yAAZXiQ4OgyNcHUMhOtcXnNyUfWt4B9PbqkU9NKzrDhHVSoUoL0p1ATxXzW5-jRtfFK3fUH8",
         "writer": "Laura van den Berg",
         "rate": "3.9",
-        "status":"action",
+        "status": "action",
         "website": "",
-        "year": "9 June 2020"
+        "year": "9 June 2020",
+        "description": ""
     },
     {
         "title": "Homeland Elegies",
         "image": "https://fsa.zobj.net/crop.php?r=fDiTIZiPkaUW7hWA0d3lUdPxILp2QaGZL3SJcCiLMsHU62W38j8RHoA4V3gcoBt-37nkCHR-KOJqL8TufHbsmha695C7cbFkJxsWOU42OvoEpY2NSXiMTB8AlMu6GbSy7kEKm1kgALWCrLOF",
         "writer": "Ayad Akhtar",
         "rate": "4.2",
-        "status":"fantasy",
+        "status": "fantasy",
         "website": "",
-        "year": "8 September 2020"
+        "year": "8 September 2020",
+        "description": ""
     },
     {
         "title": "A Children’s Bible",
         "image": "https://fsb.zobj.net/crop.php?r=zkEhSylcEF8RVuPNupyJZ_tCgXJtqiPYxkO0nt2HhmbUOwpOXczBw9hEZEzsHMm9edV1i_E4Nv-2mIOgJX4JDjAz5_vFiGQLEwASOtTzvFi74rZ-Bs3tLaeb3axbrKPv-eNnG8lwV24adu6O",
         "writer": "Lydia Millet",
         "rate": "3.8",
-        "status":"story",
+        "status": "story",
         "website": "",
-        "year": "12 May 2020"
+        "year": "12 May 2020",
+        "description": ""
     },
     {
         "title": "The Mirror & the Light",
         "image": "https://fsa.zobj.net/crop.php?r=mne2Lr5N78sdifV6ZjUC2icy5TMPCQTms8ibL2SZmlhiuESwm0SpOjSB99Ad9M2bxj9ghElY0NrunLwcKr8Ut1_bvnh084yKFCRpkribCZpNeeRAAtYMCDate3z1NpBFWUudC0fh-OKa8c_f",
         "writer": "Hilary Mantel",
         "rate": "4.4",
-        "status":"horror",
+        "status": "horror",
         "website": "",
-        "year": "5 March 2020"
+        "year": "5 March 2020",
+        "description": ""
     },
     {
         "title": "One Indian Girl",
         "image": "https://fsa.zobj.net/crop.php?r=3K8w_45ek8MkWBid5RK19dK0BY5sIE4GT5UzSMe1MOQnRhd15IRmDzB65DZzbfs_5A7nr7zG20HPGIACkbtJuaXsYuBzhW8J3_nlOB8Vu8i3cFEwnPVi_EUkbkko6Cw8KaXozHNditEvC7U1",
         "writer": "Chetan Bhagat",
         "rate": "4.3",
-        "status":"culture",
+        "status": "culture",
         "website": "",
-        "year": "1 October 2016"   
+        "year": "1 October 2016",
+        "description": ""
     },
     {
         "title": "A Game of Thrones",
         "image": "https://fsa.zobj.net/crop.php?r=qS2qZyz2gBJ9u3Ol7xOqlJshe9L8m_2ubI4T87SLDeVlXQgZjBORoG7HuqGlfCCKkk9S8gzw5h4N4H3pmwTJMfL6blumKZP2PKFoqV6XMaL6Gig86N9-xyzruWDHn7K0cy4jZ0M9jO1GaOLN",
         "writer": "George R. R. Martin",
         "rate": "4.4",
-        "status":"action",
+        "status": "action",
         "website": "",
-        "year": "August 1, 1996"
+        "year": "August 1, 1996",
+        "description": ""
     },
     {
         "title": "The Name of the Wind",
         "image": "https://fsa.zobj.net/crop.php?r=Re28Ci_1IqIlQFhySWR-lTR6N84ErmOs3K6iHY1nxdN_FOlycmKh3p4t2e1KoVuJBuFV0_EAJYFKNnGk8Hh-GzHeNL74yybjJNfxqMB_C2i-t1QiTxEJrffQe6ixXaFhNESJsPOVOXG_n26i",
         "writer": "Patrick Rothfuss",
         "rate": "4.5",
-        "status":"nature",
+        "status": "nature",
         "website": "",
-        "year": "27 March 2007"
+        "year": "27 March 2007",
+        "description": ""
     },
     {
         "title": "The Way of Kings",
         "image": "https://fsa.zobj.net/crop.php?r=oPbY1wdlmr7Ft1JcIiwysxueZ9uIfRF0mKgIgO6gTxGalrwks3hzfSMLpYNnjpowGR4V_2gawYoklx2XZusX4RANDJuuW6N931HYTV-ekDQKUZWLgFn9YXOdFFHzDVuFRvpj3KMvO9KPl5iw",
         "writer": "Brandon Sanderson",
         "rate": "4.6",
-        "status":"heaven",
+        "status": "heaven",
         "website": "",
-        "year": "31 August 2010"
+        "year": "31 August 2010",
+        "description": ""
     },
     {
         "title": "Doraemon",
         "image": "https://fsb.zobj.net/crop.php?r=FpMeapVEpwyh-PlNYwu3R9uYFurrxmIoGRMpQO5d32S0VzQc81PP8Z12GLRzNgup8tDpN6P5K6dfw5_zHbUZ3ywZHC-7UKY4ro3xqfMxcyu39xeXFNjrwiLLeFa2CSGJwTZ5tSEDRN3o46Zk",
         "writer": "Fujiko Fujio",
         "rate": "4.7",
-        "status":"fantasy",
+        "status": "fantasy",
         "website": "",
-        "year": "August 8, 1969"
+        "year": "August 8, 1969",
+        "description": ""
     },
     {
         "title": "A Wizard of Earthsea",
         "image": "https://fsb.zobj.net/crop.php?r=SklvelRdYwk1QFrMYLs7qw4oCGHnXQYKan4BRZbhn6P9a082lOINwECVgNTtltn4CmQCRBDBcJ1zSzRINixE695iDtj0NyPgLHGPYYtaDyk8w4ImLslwSQHzelTrzUm7lcwq3zdgY7oMYJAj",
         "writer": "Ursula K. Le Guin",
         "rate": "4.1",
-        "status":"geographic",
+        "status": "geographic",
         "website": "",
-        "year": "10 january 1968"
+        "year": "10 january 1968",
+        "description": ""
     },
     {
         "title": "Harry Potter",
         "image": "https://fsa.zobj.net/crop.php?r=rRtImT9QfwkQ_ROzS3UYoVjI1yRyR9C6eb2PW54B2_yOjBBqlrfPpcBxL5YU9V9mtkLLWSc1z1SsXO8bRZssM2BFVex3S2xqpSHICiDzCUH904G_5Elw0-ELpcz10X1MJ5Xu_rDq-6xO6fkT",
         "writer": "J. K. Rowling",
         "rate": "4.8",
-        "status":"comedy",
+        "status": "comedy",
         "website": "",
-        "year": "26 June 1997"
+        "year": "26 June 1997",
+        "description": ""
     },
     {
         "title": "American Gods",
         "image": "https://fsb.zobj.net/crop.php?r=yKGZe9nxM1q3VxSWknD-dbuyLitNbr08D6i3hCdxTzRBeV_8pSgz2NCLCECYaBRoH9yP-oWZrZYPM_lUXN03wd7WEJlTdhUSCtDtpKE_alqoSGh4nhg8xWspT8gUTR5ay1lU7iI8VOUiKe99",
         "writer": "Neil Gaiman",
         "rate": "4.7",
-        "status":"faith",
+        "status": "faith",
         "website": "",
-        "year": "19 June 2001"
+        "year": "19 June 2001",
+        "description": ""
     },
     {
         "title": "Culture and Traditions of India",
         "image": "https://fsa.zobj.net/crop.php?r=wxrkTkU27jkw6466Y_k7OMmTR5NX8NuXyaQ8dhE7SnBRZSonL5daU1u6DYazx6nz8CoQQxjQr1NtWeDGKTawpNZR7ZumSt3NCWe1pezimu-gViGL_6XxsLx3GNj8DQJuxyiM6OS3_jTZ7e3y",
         "writer": "Nitin Singhania",
         "rate": "3.9",
-        "status":"culture",
+        "status": "culture",
         "website": "",
-        "year": "10 August 2013"
+        "year": "10 August 2013",
+        "description": ""
     },
     {
         "title": "Into Thin Air",
         "image": "https://fsa.zobj.net/crop.php?r=MDvglqJ6FVdB8qrbl5r1yDNC2jAkNA-O93FNrNaaxlcmn94jtUgLX-ild6Usr-eX0l99acyTPXqwgqJz5QWFwTuyyJNzDlFH9lT9P47Q3v2LZs_ed_7GFxzUaLsQjrMD-71_9UZMWy9s_cNh",
         "writer": "Jon Krakauer",
         "rate": "4.3",
-        "status":"nature",
+        "status": "nature",
         "website": "",
-        "year": "10 August 1997"
+        "year": "10 August 1997",
+        "description": ""
     },
     {
         "title": "The Magic",
         "image": "https://fsb.zobj.net/crop.php?r=YzGsHg2RZP3IsQRo2yccNhYSBOmqpvaY4T9E_vcABYaLgoRFYpD1-L3V_whWzpU0Lcq8sgQnNw8dEsRhmPUFHRhrIUXHPMsKwZNWkix4tVR-fX0v204gOkhDR1fNhEtXAKIaR7sTaikVKGi9",
         "writer": "Rhonda Byrne",
         "rate": "4.4",
-        "status":"magic",
+        "status": "magic",
         "website": "",
-        "year": "6 March 2012"
+        "year": "6 March 2012",
+        "description": ""
     },
     {
         "title": "The Natural Navigator",
         "image": "https://fsa.zobj.net/crop.php?r=_-ea_JYGjy26B0VKAVmlG3qwJX0fJSr2VZNJ4pJr4eohvN8ERIy2ak8-t46P6XHeva_xP6ulwjqUX2zz-TDxre5_KGZ-Eh9NkQSG8iDwvC2T3nLuFFt-mJgZFn9r0r3c8XNU_lhOtbHdr7qv",
         "writer": "Tristan Gooley",
         "rate": "4.6",
-        "status":"nature",
+        "status": "nature",
         "website": "",
-        "year": "10 February 2010"
+        "year": "10 February 2010",
+        "description": ""
     },
     {
         "title": "The Proposal",
         "image": "https://fsb.zobj.net/crop.php?r=wHCOkqhqKkGDmszsLGcFGeH1KbWSZCow_WUGjo99mrssGAS0u3y_aZwg-4V8xO3BsTxxT0Ul5tlCyLaVZdPdYMEm6vq-D5AAMNtHWsb_WY6yt1ftlvGNYmj1NhcNuy-wDMXUsuiGDmOzh90X",
         "writer": "Jasmine Guillory",
         "rate": "3.5",
-        "status":"romantic",
+        "status": "romantic",
         "website": "",
-        "year": "10 December 2018"
+        "year": "10 December 2018",
+        "description": ""
     },
     {
         "title": "One Thousand and One Nights",
         "image": "https://global.oup.com/education/covers/oxed/large/9780192750136.jpg",
         "writer": " India/Iran/Iraq/Egypt",
         "rate": "4.1",
-        "status":"travel",
+        "status": "travel",
         "website": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights",
         "year": "1706-1721",
-        "description":"One Thousand and One Nights is a collection of Middle Eastern and South Asian stories and folk tales compiled in Arabic during the Islamic Golden Age. It is often known in English as the Arabian Ni... "
+        "description": "One Thousand and One Nights is a collection of Middle Eastern and South Asian stories and folk tales compiled in Arabic during the Islamic Golden Age. It is often known in English as the Arabian Ni... "
     },
     {
         "title": "Great Expectation",
         "image": "https://1.bp.blogspot.com/-xFNE6jMBwzM/X0ADSJaoKkI/AAAAAAAAAfM/VJT_1kTsDN8q4GpjvQrDYvcUfNeCerdJQCLcBGAsYHQ/s500/great%2Bexpectation.jpg",
         "writer": "Charles Dickens",
         "rate": "4.1",
-        "status":"travel",
+        "status": "travel",
         "website": "http://en.wikipedia.org/wiki/Great_Expectations",
         "year": "1860-1861",
         "description": "Great Expectations is written in the genre of 'bildungsroman' or the style of book that follows the story of a man or woman in their quest for maturity, usually starting from childhood and ending i... "
@@ -207,7 +224,7 @@
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7FPkaKjwB-Tiga4GzK-r2_G-mgMD0Fy2tJYh7d_Mw03Sbpwf1CiZlDz_0evYEYGWdOyhwr5xFQl0&usqp=CAU",
         "writer": " Harper Lee",
         "rate": "4.1",
-        "status":"travel",
+        "status": "travel",
         "website": "http://en.wikipedia.org/wiki/To_Kill_a_Mockingbird",
         "year": "11 July 1960"
     },
@@ -216,17 +233,17 @@
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388254311i/14662._UY475_SS475_.jpg",
         "writer": "Stendhal",
         "rate": "3.8",
-        "status":"travel",
+        "status": "travel",
         "website": "http://en.wikipedia.org/wiki/The_Red_and_the_Black",
         "year": "November 1830",
-        "description":"Le Rouge et le Noir (The Red and the Black), subtitled Chronique du XIXe siécle ('Chronicle of the 19th century'), is an historical psychological novel in two volumes by Stendhal, published in 1830... "
+        "description": "Le Rouge et le Noir (The Red and the Black), subtitled Chronique du XIXe siécle ('Chronicle of the 19th century'), is an historical psychological novel in two volumes by Stendhal, published in 1830... "
     },
     {
         "title": "Middlemarch",
         "image": "https://images-na.ssl-images-amazon.com/images/I/610RcD8n-EL.jpg",
         "writer": "George Eliot",
         "rate": "4.1",
-        "status":"travel",
+        "status": "travel",
         "website": "http://en.wikipedia.org/wiki/Middlemarch",
         "year": "1871–1872"
     },
@@ -235,112 +252,109 @@
         "image": "https://nishitak.com/wp-content/uploads/2010/11/001_gullivers_travels.jpg",
         "writer": "Jonathan Swift",
         "rate": "4.1",
-        "status":"travel",
+        "status": "travel",
         "website": "https://thegreatestbooks.org/",
         "year": "6 June 2000",
-        "description":"From the preeminent prose satirist in the English language, a great classic recounting the four remarkable journeys of ship's surgeon Lemuel Gulliver. For children it remains an enchanting fantasy;... "
+        "description": "From the preeminent prose satirist in the English language, a great classic recounting the four remarkable journeys of ship's surgeon Lemuel Gulliver. For children it remains an enchanting fantasy;... "
     },
     {
         "title": " Beloved",
         "image": "https://m.media-amazon.com/images/I/41dRgue7zZL.jpg",
         "writer": "Toni Morrison",
         "rate": "4.1",
-        "status":"travel",
+        "status": "travel",
         "website": "http://en.wikipedia.org/wiki/Beloved_(novel)",
         "year": "September 1987",
-        "description":"Beloved (1987) is a Pulitzer Prize-winning novel by Nobel laureate Toni Morrison. The novel, her fifth, is loosely based on the life and legal case of the slave Margaret Garner, about whom Morrison... "
+        "description": "Beloved (1987) is a Pulitzer Prize-winning novel by Nobel laureate Toni Morrison. The novel, her fifth, is loosely based on the life and legal case of the slave Margaret Garner, about whom Morrison... "
     },
     {
         "title": "Mrs. Dalloway",
         "image": "https://images-na.ssl-images-amazon.com/images/I/71sXY7rxayL.jpg",
         "writer": " Virginia Woolf",
         "rate": "4.1",
-        "status":"travel",
+        "status": "travel",
         "website": "http://en.wikipedia.org/wiki/Mrs_Dalloway",
         "year": "14 May 1925",
-        "description":"Created from two short stories, 'Mrs Dalloway in Bond Street' and the unfinished 'The Prime Minister', the novel's story is of Clarissa's preparations for a party of which she is to be hostess. Wit... "
+        "description": "Created from two short stories, 'Mrs Dalloway in Bond Street' and the unfinished 'The Prime Minister', the novel's story is of Clarissa's preparations for a party of which she is to be hostess. Wit... "
     },
     {
         "title": "Jane Eyre",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwVQ0ZbszxXa_dGhZB8zigJ2dPIMmdt81aBg&usqp=CAU",
         "writer": " Charlotte Bronte",
         "rate": "4.1",
-        "status":"travel",
+        "status": "travel",
         "website": "Jane Eyre",
         "year": "6 June 2000",
-        "description":"Jane Eyre is a first-person narrative of the title character, a small, plain-faced, intelligent and honest English orphan. The novel goes through five distinct stages: Jane's childhood at Gateshead... "
+        "description": "Jane Eyre is a first-person narrative of the title character, a small, plain-faced, intelligent and honest English orphan. The novel goes through five distinct stages: Jane's childhood at Gateshead... "
     },
     {
         "title": "The Aeneid",
         "image": "https://images.penguinrandomhouse.com/cover/9780553210415",
         "writer": " Virgil",
         "rate": "4.1",
-        "status":"travel",
+        "status": "travel",
         "website": "http://en.wikipedia.org/wiki/The_Aeneid",
         "year": "1598",
-        "description":"The Aeneid is a Latin epic poem written by Virgil in the late 1st century BC (29–19 BC) that tells the legendary story of Aeneas, a Trojan who traveled to Italy, where he became the ancestor of the... "
+        "description": "The Aeneid is a Latin epic poem written by Virgil in the late 1st century BC (29–19 BC) that tells the legendary story of Aeneas, a Trojan who traveled to Italy, where he became the ancestor of the... "
     },
     {
         "title": "Collected Fiction",
         "image": "https://archive.org/services/img/collectedfiction0000borg",
         "writer": "Jorge Luis Borges",
         "rate": "4.1",
-        "status":"travel",
+        "status": "travel",
         "website": "https://thegreatestbooks.org/",
         "year": "6 June 2000",
-        "description":"From his 1935 debut with The Universal History of Iniquity, through his immensely influential collections Ficciones and The Aleph, these enigmatic, elaborate, imaginative inventions display Borges'... "
+        "description": "From his 1935 debut with The Universal History of Iniquity, through his immensely influential collections Ficciones and The Aleph, these enigmatic, elaborate, imaginative inventions display Borges'... "
     },
     {
         "title": "The Sun Also Rises",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7P8TauDzzdBVlZmVWfU6t09Y8AcFsKh0-WaZMwRQvmpH3Ts8I74AflfjlIV2ni4PO90qhC0dUlKA&usqp=CAU",
         "writer": "Bill Bryson",
         "rate": "4.1",
-        "status":"travel",
+        "status": "travel",
         "website": "http://en.wikipedia.org/wiki/The_Sun_Also_Rises",
         "year": "1926",
-        "description":"The novel explores the lives and values of the so-called 'Lost Generation,' chronicling the experiences of Jake Barnes and several acquaintances on their pilgrimage to Pamplona for the annual San F... "
+        "description": "The novel explores the lives and values of the so-called 'Lost Generation,' chronicling the experiences of Jake Barnes and several acquaintances on their pilgrimage to Pamplona for the annual San F... "
     },
     {
         "title": " David Copperfield",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf0x8y67uOnvc9703u-R7sX-NKH0drS3R2RK2ICyFW-3zJxdHSoDkiE9KmhraBGHPhzEQtxMtAqp8&usqp=CAU",
         "writer": "Charles Dickens",
         "rate": "4.1",
-        "status":"travel",
+        "status": "travel",
         "website": "https://thegreatestbooks.org/",
         "year": "1885",
-        "description":" The story of the abandoned waif who learns to survive through challenging encounters with distress and misfortune."
+        "description": " The story of the abandoned waif who learns to survive through challenging encounters with distress and misfortune."
     },
     {
         "title": "The Magic Mountain ",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS69VaKsZu2WaAykfzYvLtsCqGg2Vtjm_6Q4VNTl4j3Z82NUIV29HVM3UxXSBqA1_XcHcUIgrwZI4M&usqp=CAU",
         "writer": "Thomas Mann",
         "rate": "4.1",
-        "status":"travel",
+        "status": "travel",
         "website": "http://en.wikipedia.org/wiki/The_Magic_Mountain",
         "year": "6 June 2000",
-        "description":"The Magic Mountain is a novel by Thomas Mann, first published in November 1924. It is widely considered to be one of the most influential works of 20th century German literature. "
+        "description": "The Magic Mountain is a novel by Thomas Mann, first published in November 1924. It is widely considered to be one of the most influential works of 20th century German literature. "
     },
     {
         "title": "Mrs. Dalloway",
         "image": "https://images-na.ssl-images-amazon.com/images/I/71sXY7rxayL.jpg",
         "writer": " Virginia Woolf",
         "rate": "4.1",
-        "status":"travel",
+        "status": "travel",
         "website": "http://en.wikipedia.org/wiki/Mrs_Dalloway",
         "year": "14 May 1925",
-        "description":"Created from two short stories, 'Mrs Dalloway in Bond Street' and the unfinished 'The Prime Minister', the novel's story is of Clarissa's preparations for a party of which she is to be hostess. Wit... "
+        "description": "Created from two short stories, 'Mrs Dalloway in Bond Street' and the unfinished 'The Prime Minister', the novel's story is of Clarissa's preparations for a party of which she is to be hostess. Wit... "
     },
     {
         "title": "Jane Eyre",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwVQ0ZbszxXa_dGhZB8zigJ2dPIMmdt81aBg&usqp=CAU",
         "writer": " Charlotte Bronte",
         "rate": "4.1",
-        "status":"travel",
+        "status": "travel",
         "website": "Jane Eyre",
         "year": "6 June 2000",
-        "description":"Jane Eyre is a first-person narrative of the title character, a small, plain-faced, intelligent and honest English orphan. The novel goes through five distinct stages: Jane's childhood at Gateshead... "
+        "description": "Jane Eyre is a first-person narrative of the title character, a small, plain-faced, intelligent and honest English orphan. The novel goes through five distinct stages: Jane's childhood at Gateshead... "
     }
-
-    
-
 ]
