@@ -1,6 +1,6 @@
 {
-  "name": "book",
-  "homepage": "https://Ram-1234.github.io/book-library",
+  "name": "book-library",
+  "homepage": "https://book-library.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
