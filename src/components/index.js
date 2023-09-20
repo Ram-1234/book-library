@@ -1,12 +1,10 @@
 import React, { useEffect, useState } from 'react';
-import Bookcatagory from './Bookcatagory';
-import './style.css';
-import Book from './Books';
-import Data from './data.json';
-import Footer from './footer.js';
+import Bookcatagory from './category/Bookcatagory';
+import './styles/style.css';
+import Book from './book/Books';
+import Data from './data/data.json';
+import Footer from './footer/footer.js';
 import Modal from "./modal/modal"
-
-
 
 export default function Home() {
     let [colors, setColor] = useState("white");
@@ -16,8 +14,6 @@ export default function Home() {
     let [type, setType] = useState("all")
     let [showDetails, setShowDetails] = useState(false);
     const [details, setDetails] = useState('');
-
-    console.log("showDetails", showDetails);
 
     function defaultType(e) {
         setType(e.target.value)
@@ -39,7 +35,6 @@ export default function Home() {
     }
 
     function submitInput() {
-        // newData=Data.filter(item=>item.title.toLowerCase().slice(0,input.length)===input.toLowerCase())
         newData = Data.filter(item => item.title.toLowerCase().includes(input.toLowerCase()))
         setnewData(newData);
     }
