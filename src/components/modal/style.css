@@ -1,7 +1,7 @@
 .container {
     width: fit-content;
     height: auto;
-    border: 2px solid lightgrey;
+    border: 2px solid lightgray;
     border-radius: 15px;
     position: fixed;
     top: 50%;
