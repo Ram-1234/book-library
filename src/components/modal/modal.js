@@ -1,9 +1,11 @@
 import React from "react";
-import './style.css';
 import CloseIcon from '@mui/icons-material/Close';
+import './style.css';
+
+
 
 const Modal = ({ data, closeHandle }) => {
-    console.log("title", data);
+        
     return (
         <React.Fragment>
             <div className="backgroundcss"></div>

@@ -9,3 +9,11 @@
     transform: scale(1.1);
     font-weight: 600;
 }
+.book_img{
+ min-height: 268px;
+ min-width: 250px;   
+}
+.card{
+    padding:8px;
+    padding-bottom: 14px;
+}
