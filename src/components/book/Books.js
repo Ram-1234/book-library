@@ -6,7 +6,7 @@ export default function Books(props) {
     return (
         <>
             <div className="cards">
-                <div className='card' style={{ /* border: `1px solid ${props.color}` */ }}>
+                <div className='card'  style={{border: props?.theme?.border}}>
                     <div style={{ color: "red" }} className="rating">{props.rates * 2 * 10}%</div>
                     <img src={props.imgsrc} alt="bookimage" className='book_img' />
                     <div style={{ color: "red" }} className="bookstatus">{props.bstatus}</div>

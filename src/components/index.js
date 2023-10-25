@@ -1,4 +1,7 @@
 import React, { useEffect, useState } from 'react';
+import MenuBookIcon from '@mui/icons-material/MenuBook';
+import LightModeIcon from '@mui/icons-material/LightMode';
+import Brightness4Icon from '@mui/icons-material/Brightness4';
 import Bookcatagory from './category/Bookcatagory';
 import './styles/style.css';
 import "./style.css"
@@ -6,13 +9,9 @@ import Book from './book/Books';
 import Data from './data/data.json';
 import Footer from './footer/footer.js';
 import Modal from "./modal/modal"
-import LightModeIcon from '@mui/icons-material/LightMode';
-import Brightness4Icon from '@mui/icons-material/Brightness4';
-import MenuBookIcon from '@mui/icons-material/MenuBook';
 
 export default function Home() {
-    let [colors, setColor] = useState("white");
-    let [text, textColor] = useState("black");
+    const [theme, setTheme]= useState({color:"white", text:"black", border:"none"});
     let [input, setInput] = useState("")
     let [newData, setnewData] = useState(Data)
     let [type, setType] = useState("all")
@@ -32,27 +31,29 @@ export default function Home() {
         }
     }, [type])
 
+    useEffect(()=>{
+     let  filteredData  = Data.filter(item => item.title.toLowerCase().includes(input.toLowerCase()))
+        setnewData(filteredData);
+        //eslint-disable-next-line react-hooks/exhaustive-deps
+    },[input])
 
-
-    let setinput = (e) => {
+    const setInputHandler = (e) => {
         setInput(e.target.value)
     }
-
-    function submitInput() {
-        newData = Data.filter(item => item.title.toLowerCase().includes(input.toLowerCase()))
-        setnewData(newData);
+    /** debounce concept */
+    const debounce=(func, delay)=>{
+        let timerId=null
+        return function(...args){
+            clearTimeout(timerId);
+            timerId=setTimeout(()=>func(...args), delay);
+        }
     }
 
     function colorChange() {
-        if (colors === 'white' || colors === 'red') {
-            setColor('black');
-            textColor('white');
-        } else if (colors === 'black') {
-            setColor('white');
-            textColor('black');
-        } else if (colors === 'black') {
-            setColor('red');
-            textColor('green');
+        if (theme.color === 'white') {
+            setTheme((old)=>({...old, color:"black",text:"white", border:"1px solid #1B1B1B"}))
+        } else if (theme.color === 'black') {
+            setTheme((old)=>({...old, color:"white",text:"black", border:"none"}))
         }
     }
 
@@ -65,31 +66,27 @@ export default function Home() {
         setShowDetails(false);
     }
 
-
-
     return (
-        <>
+        <React.Fragment>
             <div className="main">
                 <div className="headerbar">
                     <h1 className="logo"><MenuBookIcon fontSize='32px' style={{ margin: "0 8px 0 0" }} /> Library</h1>
                     <div className='filter__container'>
                         {/* serach bar */}
                         <div className="searchbar" >
-                            <input className='search__field' type="text" onChange={setinput} value={input} placeholder="Search..." />
-                            <button className="search__btn" onClick={submitInput} >search</button>
+                            <input className='search__field' type="text" onChange={debounce(setInputHandler,1000)} placeholder="Search..." />
                         </div>
                         <Bookcatagory defaultType={defaultType} />
                         {/* theme button */}
                         <div onClick={colorChange} className='color__mode__container'>
-                            {/* <input type="color__mode"  className="colorsmode" value='color mode' /> */}
-                            {colors === "white" ?
-                                <LightModeIcon style={{ color: '#fff' }} /> :
+                            {theme.color === "white" ?
+                                <LightModeIcon style={{ color: theme.color }} /> :
                                 <Brightness4Icon />
                             }
                         </div>
                     </div>
                 </div>
-                <div style={{ background: colors, color: text }} className="bookhome" >
+                <div style={{ background: theme.color, color: theme.text }} className="bookhome" >
                     {
                         newData.length > 0 ?
                             newData.map((val, ind) => {
@@ -97,7 +94,8 @@ export default function Home() {
                                     <Book
                                         key={ind}
                                         id={ind}
-                                        color={text}
+                                        color={theme.text}
+                                        theme={theme}
                                         rates={val.rate}
                                         imgsrc={val.image}
                                         bstatus={val.status}
@@ -116,9 +114,7 @@ export default function Home() {
                 <Footer />
             </div>
             {/* <footer/>  */}
-        </>
+        </React.Fragment>
     )
 }
 
-
-// onChange={(e)=>setInput(e.target.value)}
