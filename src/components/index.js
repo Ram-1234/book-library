@@ -89,7 +89,7 @@ export default function Home() {
                 </div>
                 <div style={{ background: theme.color, color: theme.text }} className="bookhome" >
                 <Suspense fallback={<p>loading...</p>}>
-                    <div style={{ background: colors, color: text }} className="bookhome" >
+                    <div style={{ background: theme.color, color: theme.text }} className="bookhome" >
                         {
                             newData.length > 0 ?
                                 newData.map((val, ind) => {
