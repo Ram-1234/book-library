@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Hosted Link: https://650b2bf39ee1d2225f509ff7--exquisite-brigadeiros-6b4810.netlify.app/
+Hosted Link: https://653a3a3da481e10b15c3ee7e--animated-yeot-f5c28e.netlify.app/
 
 ## Available Scripts
 
